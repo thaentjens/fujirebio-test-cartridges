@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="precautions_for_handling">
+    <title>Precautions for handling</title>
+    <body>
+        <p>
+            <ol id="ol_fc4_yrj_p2b">
+                <li id="li_gc4_yrj_p2b">The products contain biological materials. (See <xref
+                        href="materials_provided.dita#materials_provided"/> and <xref
+                        href="materials_provided_separately.dita#materials_provided_separately"/>).
+                    No given tests can completely guarantee that infected materials are absent.
+                    Accordingly, such materials should be considered potentially infectious. To
+                    avoid risk of infection when using these products and human specimens, wear
+                    disposable gloves to avoid direct contact to them, do not perform pipetting by
+                    mouth and follow appropriate biosafety practice.<sup>9</sup>)</li>
+                <li id="li_yj3_hsj_p2b">The following reagents contain sodium azide as a
+                    preservative. Avoid contact with skin, eyes or mouth, and toxic gas formation
+                    with acids.<ul id="ul_l5s_3sj_p2b">
+                        <li id="li_m5s_3sj_p2b">Wash Solution: 1.0% (w/v) (before dilution)</li>
+                        <li id="li_thg_jsj_p2b">Substrate Solution: 0.05% (w/v)</li>
+                        <li id="li_yds_jsj_p2b">Reconstituting Solution: 0.05% (w/v)</li>
+                    </ul></li>
+                <li></li>
+            </ol>
+        </p>
+    </body>
+</topic>
