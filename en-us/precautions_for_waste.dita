@@ -3,6 +3,21 @@
 <topic id="precautions_for_waste">
     <title>Precautions for waste</title>
     <body>
-        <p></p>
+        <p>
+            <ol id="ol_vrq_xkf_bhb">
+                <li id="li_wrq_xkf_bhb">The reagents contain chemical components as previously
+                    described (For details see <b>2. PRECAUTIONS FOR HANDLING</b>). Follow any
+                    applicable regulations for disposal. If flushing down the drain, use generous
+                    amount of water when discarding to prevent the formation of explosive metal
+                    azides. Do not use acids to decontaminate the waste, since sodium azide with
+                    acids liberates toxic gases.</li>
+                <li id="li_xrq_xkf_bhb">Handle any medical waste produced by this assay in
+                    compliance with waste-related regulations in each country or region.</li>
+                <li id="li_uk2_ykf_bhb">When any liquid such as specimen or assay waste is splashed,
+                    wipe and disinfect the whole area with an appropriate disinfectant such as
+                    sodium hypochlorite or ethanol, conforming to the institute’s biosafety
+                    requirements.</li>
+            </ol>
+        </p>
     </body>
 </topic>

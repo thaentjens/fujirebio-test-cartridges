@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Key Definitions</title>
+    <keydef keys="product" product="cartridges">
+        <topicmeta>
+            <keywords>
+                <keyword>Immunoreaction Cartridges</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product" product="calibrators">
+        <topicmeta>
+            <keywords>
+                <keyword>Calibrators</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>

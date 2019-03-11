@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle><b>
+                <data>
+                    <title>Chemiluminescent Enzyme Immunoassay Reagent</title>
+                </data>
+            </b>Lumipulse® G Total Tau</mainbooktitle>
+        <booktitlealt><ph keyref="product"/></booktitlealt>
+    </booktitle>
+    <chapter href="name.dita"/>
+    <chapter href="intended_use.dita"/>
+    <chapter href="summary_and_explanation_of_the_assay.dita"/>
+    <chapter href="principle_of_the_procedure.dita"/>
+    <chapter href="materials_provided.dita"/>
+    <chapter href="materials_provided_separately.dita"/>
+    <chapter href="materials_not_provided_but_required.dita"/>
+    <chapter href="warnings_and_precautions.dita">
+        <topicref href="safety_precautions.dita"/>
+        <topicref href="precautions_for_handling.dita"/>
+        <topicref href="precautions_for_use.dita"/>
+        <topicref href="precautions_for_waste.dita"/>
+    </chapter>
+    <chapter href="storage_instructions.dita"/>
+    <chapter href="instrument.dita"/>
+    <chapter href="reagent_preparation.dita"/>
+    <chapter href="specimen_collection_and_preparation.dita"/>
+    <chapter href="assay_procedure.dita"/>
+    <chapter href="calibration.dita"/>
+    <chapter href="results.dita"/>
+    <chapter href="quality_control.dita">
+        <topicref href="quality_control_material_preparation.dita"/>
+        <topicref href="quality_control_procedure.dita"/>
+    </chapter>
+    <chapter href="limitations_of_the_procedure.dita"/>
+    <chapter href="expected_values.dita"/>
+    <chapter href="performance_characteristics.dita">
+        <topicref href="precision.dita"/>
+        <topicref href="sensitivity.dita"/>
+        <topicref href="interference.dita"/>
+        <topicref href="linearity.dita"/>
+        <topicref href="high_dose_hook.dita"/>
+        <topicref href="measurement_comparison.dita"/>
+    </chapter>
+    <chapter href="bibliography.dita"/>
+    <chapter href="glossary_of_symbols.dita"/>
+    <chapter href="key_definitions.ditamap" format="ditamap"/>
+</bookmap>
