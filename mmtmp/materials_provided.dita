@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\tessah\Documents\GitHub\fujirebio-test-cartridges\mmtmp?><?workdir-uri file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/mmtmp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="materials_provided" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="topic:1;3:32">
+    <title class="- topic/title " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="title:1;4:12">Materials provided</title>
+    <body class="- topic/body " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:1;6:12">Lumipulse G Total Tau Immunoreaction Cartridges:<image href="en-us/_images/IRC.jpg" height="15" width="25" id="image_bbv_4rc_p2b" placement="inline" class="- topic/image " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="image:1;7:64"/></p>
+        <p id="p_ikh_src_p2b" class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:2;8:31">3 × 14 Tests <image href="en-us/_images/REF.jpg" height="15" width="28" id="image_oj1_trc_p2b" placement="inline" class="- topic/image " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="image:2;9:52"/> 230312</p>
+        <p id="p_ppm_trc_p2b" class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:3;10:31">
+            <ol id="ol_ct2_5rc_p2b" class="- topic/ol " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="ol:1;11:37">
+                <li id="li_dt2_5rc_p2b" class="- topic/li " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="li:1;12:41">
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:4;13:24">Antibody-Coated Particle Solution</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:5;14:24">(Liquid when used, 150 μL/Immunoreaction Cartridge)</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:6;15:24">Contains 250 μg/mL anti-total Tau monoclonal antibody (mouse)-coated
+                        particles, protein stabilizers (bovine) in 50 mM Tris buffer. This solution
+                        contains gelatin and turns into gel at 15 °C or lower. Preservative: 0.1%
+                        ProClin 300.</p>
+                </li>
+                <li id="li_ktl_w5c_p2b" class="- topic/li " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="li:2;20:41">
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:7;21:24">Biotinylated Antibody Solution</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:8;22:24">(Liquid, 120 μL/Immunoreaction Cartridge)</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:9;23:24">Contains 8 μg/mL biotinylated anti-total Tau antibody (mouse), protein
+                        (bovine) and chemical stabilizers in 50 mM Tris buffer. Preservative: 0.1%
+                        ProClin 300.</p>
+                </li>
+                <li id="li_zgg_dgd_p2b" class="- topic/li " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="li:3;27:41">
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:10;28:24">Enzyme-Labeled Streptavidin Solution</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:11;29:24">(Liquid, 350 μL/Immunoreaction Cartridge)</p>
+                    <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="p:12;30:24">Contains 0.08 μg/mL alkaline phosphatase (ALP)-labeled streptavidin, protein
+                        (bovine) and chemical stabilizers in 50 mM MES buffer. Preservative: 0.1%
+                        ProClin 300.</p>
+                </li>
+            </ol>
+        </p>
+        <image placement="break" href="en-us/_images/immunoreaction-cartridge.png" id="image_p12_vhd_p2b" scalefit="yes" class="- topic/image " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/materials_provided.dita" xtrc="image:3;37:52"/>
+    </body>
+</topic>

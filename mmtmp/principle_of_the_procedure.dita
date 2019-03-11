@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\tessah\Documents\GitHub\fujirebio-test-cartridges\mmtmp?><?workdir-uri file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/mmtmp/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="principle_of_the_procedure" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="topic:1;3:40">
+    <title class="- topic/title " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="title:1;4:12">Principle of the procedure</title>
+    <body class="- topic/body " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:1;6:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:1;7:18"><p id="p_amf_dnc_p2b" class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:2;7:40">Lumipulse <b class="+ topic/ph hi-d/b " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="b:1;7:53"><i class="+ topic/ph hi-d/i " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="i:1;7:56">G</i></b> Total Tau is an assay system,
+                    including a set of immunoassay reagents, for the quantitative measurement of
+                    total Tau in specimens based on CLEIA technology8) by a specific two-step
+                    immunoassay method on the LUMIPULSE G System.</p> &lt;Reaction Protocol;
+                Specific Two-Step Mode&gt;<p id="p_wcy_5nc_p2b" class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:3;11:62">
+                    <simpletable frame="all" id="simpletable_f1j_xnc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:1;12:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:1;13:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:1;14:38">Reagent/Specimen Set</stentry>
+                        </strow>
+                    </simpletable>
+                </p></div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:4;19:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:2;20:18"><p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:5;20:21">
+                    <simpletable frame="all" id="simpletable_icz_ppc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:2;21:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:2;22:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:2;23:38">Sampling</stentry>
+                        </strow>
+                    </simpletable>
+                </p></div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:3;27:18"><p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:6;27:21">Total Tau Calibrator or specimen and biotinylated antibody solution are both added to particle solution.</p></div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:7;29:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:4;30:18"><p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:8;30:21">
+            <simpletable frame="all" id="simpletable_udk_dqc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:3;31:67">
+                <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:3;32:24">
+                    <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:3;33:30">First Reaction</stentry>
+                </strow>
+            </simpletable>
+            </p></div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:5;37:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:9;38:20">Total Tau in specimens or calibrators specifically binds to anti-total Tau
+                    monoclonal antibody (mouse) on the particles, and biotinylated antibody (mouse).
+                    Biotinylated antibody-antigen immuno-complexes are formed.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:10;43:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:6;44:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:11;45:20">
+                    <simpletable frame="all" id="simpletable_dpv_pqc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:4;46:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:4;47:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:4;48:38">Washing</stentry>
+                        </strow>
+                    </simpletable>
+                </p>
+            </div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:7;53:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:12;54:20">The particles are washed and rinsed to remove unbound materials.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:13;57:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:8;58:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:14;59:20">
+                    <simpletable frame="all" id="simpletable_bqd_vqc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:5;60:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:5;61:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:5;62:38">Second Reaction</stentry>
+                        </strow>
+                    </simpletable>
+                </p>
+            </div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:9;67:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:15;68:20">Alkaline phosphatase (ALP)-labeled streptavidin specifically binds to
+                    biotinylated immuno-complexes on the particles.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:16;72:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:10;73:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:17;74:20">
+                    <simpletable frame="all" id="simpletable_kdh_zqc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:6;75:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:6;76:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:6;77:38">Washing</stentry>
+                        </strow>
+                    </simpletable>
+                </p>
+            </div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:11;82:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:18;83:20">The particles are washed and rinsed to remove unbound materials.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:19;86:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:12;87:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:20;88:20">
+                    <simpletable frame="all" id="simpletable_q1w_crc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:7;89:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:7;90:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:7;91:38">Enzyme Reaction</stentry>
+                        </strow>
+                    </simpletable>
+                </p>
+            </div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:13;96:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:21;97:20">Substrate Solution is added and mixed with the particles. AMPPD* contained in the
+                    Substrate Solution is dephosphorylated by the catalysis of ALP indirectly
+                    conjugated to particles.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:22;102:12">
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:14;103:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:23;104:20">
+                    <simpletable frame="all" id="simpletable_bmr_hrc_p2b" class="- topic/simpletable " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="simpletable:8;105:75">
+                        <strow class="- topic/strow " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="strow:8;106:32">
+                            <stentry class="- topic/stentry " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="stentry:8;107:38">Luminescence Measurement</stentry>
+                        </strow>
+                    </simpletable>
+                </p>
+            </div>
+            <div class="- topic/div " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="div:15;112:18">
+                <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:24;113:20">Luminescence (at a maximum wavelength of 477 nm) is generated by the cleavage
+                    reaction of dephosphorylated AMPPD. The luminescent signal reflects the amount
+                    of total Tau present in the sample.</p>
+            </div>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/Users/tessah/Documents/GitHub/fujirebio-test-cartridges/principle_of_the_procedure.dita" xtrc="p:25;118:12">*AMPPD: 3-(2’-spiroadamantane)-4-methoxy-4-(3”-phosphoryloxy) phenyl-1, 2-dioxetane disodium salt</p>
+        
+    </body>
+</topic>
